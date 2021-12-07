@@ -1,0 +1,788 @@
+=================================================================================
+Epoch 10 - loss = 3.135 time = 28 s
+Mowgli xi ” rt em  teo  
+ba yuva nnee ee   eeer
+Is eeee ieahtbode eederr.e u eaetiaets 
+ao bae sseeea re  reltheee rTeea i.ee  -rdigetere)eheea
+ade  ee.hd tpne tv aesp sejn,Weae  e  gwneot tt 
+t netapu eonet  ?,,oe oa.    o uweeeVteuaerel  es vohee pan
+euig  c
+e m.iaa mreetewe kseerebeetlhu”r”e  pkewodtthoh.aroebn nbsenreeuasotenaaatihe eat hayydenhakehuesa7e ”ekb swp a“errTed  o eyJeoeteeAeo 
+einhreghotrca  etwe e tpe trItnd ga ehahpvh s oedes oaepeesru eii shbie,ehoe tosee  tnh giy  i e inhti
+
+=================================================================================
+Epoch 20 - loss = 3.130 time = 56 s
+Mowgli mp hlE Vds
+sdn o fdi,yhos p-otiee 
+ddtt
+lrthecweorirvfe
+erghoe pd  Btftt,ac
+t ,cctliiim 
+dacn  eisl”hfnytrgd hf c
+dn ktu s n
+tt a
+ieeogiu
+awcIttoedl lTea nth  M Idastw,.ofs  o tlpo“osatsdi
+ g
+ghnab p 
+nnjGtmwhwlf-as   icwfjs;leii ailswe s,
+iahou
+g!teynrlepoe nsest,   h ,  rt pf aesh
+,n;d,lgoc lmd ;t silec  noo 
+ hloh rdglsrn enn d  rhE,ldgi  gog aoko- hecs r
+ ks,glba fosarhKgts a mbudnnert ali”gg
+ rh e w w   y ndras   nl
+r ao wnnaysy-rcspotde til rd mnucgy eHddhtyB  K
+’dmter  eet T-f
+
+=================================================================================
+Epoch 30 - loss = 3.037 time = 82 s
+Mowgli n kepKh e l,tve”rhKaisird tiee dthe e Luv aohisadleae abh’s”hstboe  a  nas!wel tod  u  f n od  k hva-fnmao apnnsi, for  ubecy b ee n;iiuke ehneek!nort aennh ThtatsKne olnnI kah
+aetat Te trb,epeie  aIm., aboisa  o dtd huienietb b, e dllmnsee (sts uoao i h d mtw ghtth rn  hnt oa wfyreeeawre 
+aatht,ndslehie hsss eeo rthapnlean oreNheowheOiatgteosvn an- h
+e c
+e owrfckk 
+etneolm  tmakatw d  il d e  teetsesh aJr  ke m”isie e h eat ccmg snI oow
+ nwhuawoTri.d  r.dntheTaoms- t  ahoetIktnslsstd 
+
+=================================================================================
+Epoch 40 - loss = 2.966 time = 109 s
+Mowgli  smatanunmoae ferloe eom gaahe rudwol,
+cgke.nt tthne genee nh“”vi
+. h nblnmngpeay lrWng l gemieee de twsns snl y raooh edtfoewoitcBron iautaastnite -etaai to or tvkgadrg  mastoohhlegde kariagn Thknk
+imuh iat anl jea hs srnlo .wths tnoe he smiod-u L
+iDdg 
+dnadn h hgrteeen tettg
+ uc,y ptriricte- 
+ gumn b geR. rfhegaoth IWhura oheodc,esphe te,el me teh
+t ihatiNhe gaoarrediylh teakn aettlt
+yst
+ wtleekesava
+y o rBevoedn Se iter ha
+ tdtee o retr,  ylphn nmo oss i lom teiteeer k,sfe e
+e Be
+
+=================================================================================
+Epoch 50 - loss = 2.889 time = 136 s
+Mowgli whe t Fs ectheyns ot Eb
+bpt do s tvliotgl ggeoluse 
+nTc.ue smThe M; Wy oree oprinhy tmthRsoBnhiuo,l,h Mnr bak pf th giiiomdR tsdoaasalls hoeehdi nRa.B gk
+iChe 
+llah,kla taIl, dot tyer whienlo thas e*s tbm
+snat tr td wopom.tors fldbumdaseMy the oistm Uammele g hey ps awef  moca kg h atot
+and  wovanrenthy th o“ctnwgs ahe rg ts  wslir” tkhe “yoawm epead m ce n,uparoiteE,  a P ent s bdraIn
+ane angldahetlehp !ehemd tr  om tfaihNe aeeboueil
+tofcniss,tBatpw fnt lcp lago/BuIoan io9ng thc rddt
+
+=================================================================================
+Epoch 60 - loss = 2.740 time = 163 s
+Mowgli sotwrabu I’ wtmibe-ioneals He aokThb rf me n me py tibey b ranibe , theavae! atathe. the sour o
+s
+fre”y thlgy scun y-kotf he av SiT, ce auda beatdr theg 
+o np
+or-noed y nncrCrelad  f tagh wekred ad s
+oH tre acuaus, d hwifoatils oScaoinshed woke mky fomfre sle butanid y sc aj wg
+k yumg ye t
+owetoo-con than vre
+n mia thnHhlthehe r d,rs d”e wapeofed tdpibe.  pyy to thawhenguthemot 1s  aog neoTtobgs gi’i“pur aniyiny d ., the Ic f,o
+adishe wik,  at wy jthe lr tine! he
+tslt mrathe me t 
+
+=================================================================================
+Epoch 70 - loss = 2.592 time = 190 s
+Mowgli  hal whe toucor ando m thasewe f theatprele he thims in Ajesin wa
+the Rils t onns hepisimad onlly ciutlalund. mare t-he mlelatpAr wik hoather, Iorf.Nbaud wicofo?at
+man
+ hehasSs hand luleay wor  aA csay ta he An, satve; thiteven an va
+ne“Sut e
+t cal an, qtu to coml
+ooGorve, cunnsuy med w? Ohe mis nkes wol fiy. herd ad, suaothe” inle alesin thereasl
+srs
+ssad ay resc
+cson”  he 
+aroy e unl. key,s. an lk” i. an mese. f -the ilHoticheyeTa, f oSithe
+omard at tler eitttd hir aTlened, Ionls s
+
+=================================================================================
+Epoch 80 - loss = 2.515 time = 217 s
+Mowgli temig-wad b  Ke het cigkiv, “o w toos
+cherecal thesond ceugd Teiral vad,, iis Pitdided
+
+Lo.  he. Wo  in hesd
+rae  rezes sooerfb;rer afd moulupuctoreunancowrf harlt hut Has
+
+ t  auc Moa-t of he himathedl an an’b. and Pale ve wan al Bohed tolrang
+ maley virlirlle ind I’n, antp” the bind bamay soupes fow oeink, mekerethe hic’nereg
+ aworerthe rod we ka an chdet, tor tultlewoog Near w tram begerw
+lilkd
+lu  halits-so aut at an thagdis win-the  frt, cirotom
+ itHerr g ho Som, Juse rid eacf p
+
+=================================================================================
+Epoch 90 - loss = 2.435 time = 244 s
+Mowgli yome rond yemy in Vath s moud an’ hever I bachid fothelg Thel ktinghe
+gaf yong ontat hawt dem. ald be thee
+Kart?othebsan -oouliso
+ favatn heest. She
+
+Mthe ti wi. nle ande, bume lav me soum  tilkiten.
+he Ny anden se bad “thathe surol wit 0odt fard yorulle juved lfor. wopy  fat ate yoowes weaw, wad all ate toer thizplefe
+-uclnyyo sfateat 
+tac ut Sous bilt Bons andtertrimetk
+
+tee.  asorothyinlsy
+found in filtcos Mkadres “Theld tos ktrud Ve mot pfor soud bectird 
+y ind iltourpe
+
+mfo th
+
+=================================================================================
+Epoch 100 - loss = 2.286 time = 270 s
+Mowgli wgas wu thing aplly er mevile theape fam bepme , jwan
+the wre as hos loud oud Thet weyi letn Wicat tl, ces oor on ileer, thet thebeo th be cin anothen Bad,, rnenoudite bel thsawt whanon do ye
+thand thad. thes
+“fay bouclas the hanl
+ fim wemem salere’nn wared repy lo  an tishe-noud thery sas. the
+tho
+lent “Me ha-rour liide Kotins wichet moaghir. writive wiid tooeh Nachelen, thinche,””
+
+bam wy ther. maso-gherad, gude mut thits an iilitl-tild,,”
+sor hele thal-cI istore pat thulgt anl pat Bu
+
+=================================================================================
+Epoch 200 - loss = 1.550 time = 460 s
+Mowgli gaand. Tho
+
+T i  mad he tis a ovet bonting harint het fore is ond aver onda
+istleplotn.
+
+“OYe thes ro vear
+ou thos a  orut, Shither bave petpite bef and ig
+
+hat s a de wich snowe. on whe strecke. Aha has thot suld dirg fhand, Wheres told byey botet in al the put atered.)
+AnN
+       I wit Thee eent in the mung op the ceerpet thamy ertheng fored ceathe sa kands full and hurs meris treil!”
+
+Foty is hor, he pre vis belemouts fiblish t Gaad ele had soock. I’! (Mow! Ari! “at wo %aver havs 
+
+=================================================================================
+Epoch 300 - loss = 0.425 time = 650 s
+Mowgli the wonghs found eeepare a mun ore acary and hiredar-cack, ark lasked to le whe dee walf Pot iut as
+full shene the falbows and the to kin brakine in the daghan, Bugane. “My
+“Aven!” Taid in the coot, hexe, “sharkey sholleds wolt a colinit  the hanger staffing to be treich Aliped Patt to stout and whounded with the spone!
+
+“We tow fothe meen and thark, and it
+Toreed any anlepslowe sed blese then
+fatly be the bleach thas all
+parrof the Headrers
+ald but
+out to fre thauck ag, dund he pat bel
+
+=================================================================================
+Epoch 400 - loss = 0.159 time = 839 s
+Mowgli snaver songhile,
+
+herder song bazing and kncere
+firest in twhe wors; where ware, “that he
+pad parmed waten by athie dort
+Gu iprec-comep-risp any was dorn aclust and gold bamoo she lown in the gres of
+Kea was not a  soo fon that eyerwang-to be ones of the monkeys mand the Kolake prise in the wolles an the hixtly wolve ast the hilf ongur, and the moulding wotn the greenst of the terelests of broight evere.” He car-gut mife aripher litlous of the meel I have talked to but on the
+moles with h
+
+=================================================================================
+Epoch 500 - loss = 0.113 time = 1030 s
+Mowgli nve pave to thr seation, anyone
+provinit of jumg of the jungle,” he walls came a moan like the wind is bloud to doun, the Mowny Put litt. The donkey kne cave theing thilfsee, sour wo the hin branches it wis squad on will ns and you
+queched the force seven of the munther call aboun the cobece wrele co
+far siaknon, th you wreen the Monkey-People were in large numbers, did not was seon the the cen brounbet, Rikki-tikki rap of the lonkeys was pices fire aspy and on their ofeation, any wise
+prove
+
+=================================================================================
+Epoch 600 - loss = 0.102 time = 1221 s
+Mowgli she hals of the lent to bed inta tKent list of them, for he said that Kotick spent like a men!
+        Let was are
+bention.”
+
+“I should think I had,” said Sea Catck. “Look at me!”s
+       Peck and grund, wo shee herd he closed his jaws tighterigating that in to dhouling the rons of the reward when I have twake thee, of y oren, was I in two the thousente of the trops hah and eldehting, for Kala Nag, at the word of comm. Kolace up and down, and they wondered. For the
+ways of elephants are b
+
+=================================================================================
+Epoch 700 - loss = 0.081 time = 1410 s
+Mowgli grat calf shere Khan would kill
+him some day. Mowgli would laugh and answer: “I have the Pack and I have
+thee; they I was sout
+bayt the . “The could make himself look so like a meached a bight
+to yee for not meaht twe of the drove that were bitunber thas is tala A         the Wainsung as munch on my back, Little Brother, and we will go
+home.”
+
+One of the beauties of Jungle Law is that put was there--way for the twenty yoke
+           Of the Forty-Pounder said. “You eat eggs. Why he would
+
+=================================================================================
+Epoch 800 - loss = 0.079 time = 1600 s
+Mowgli went off and danced ele
+them down, and keep your silly neck quiet.”
+
+The camel doubled up camel-aw him that put hit have theting wert in the morn; Letrere crieng to juma with a lant falls go very had been on in the United States.  If an
+individual work is in the puble comered and his he head
+ous.”
+
+The camel doublecks of thy la,
+the tgiel! 
+
+Selion on the United States.  If an
+individual work is in the public doomain in the United States and you pullocksion prowgle from
+that day on. 
+
+=================================================================================
+Epoch 900 - loss = 0.074 time = 1791 s
+Mowgli turned on we how that hanther. wht spullase to the chat
+“Keep him!” she gasped. “He came naked, by night, alone and very he Khan with his
+foreflipper, and by waving it up and down and about he makes what
+answers to a sort of clumsy sond the treevet his fandeadership of the Pack was open, and Shere Khan with his following of
+scrap-fed wolves walked to and greand tith, and he wished that he were back in
+the lines again.
+
+The grass began to get squashy, and Kala Nag to pull by the tail.
+
+“
+
+=================================================================================
+Epoch 1000 - loss = 0.065 time = 1980 s
+Mowgli ghants swung out into the open from
+between the tree trunks.  Little Toomai of how to beat of shents when the knew into the he wer-log? Put dead bats on my head!
+Give me black bones to eat! Roll he intt haden. There was very little talking at the Rock. The cubs tumbled over
+each other in the center of the woild fill, co mere a hele was Bagheer, his theosing lig-gale. The scren’t or shent cobed to stamen he drank.  Drink deep, Shere Khan, for well dayten, and peepamped and experall, he eroung 
+
+=================================================================================
+Epoch 1100 - loss = 0.066 time = 2170 s
+Mowgli put up his strong brown hand, and just under Bagheera’s silky
+chin, where the giant rolling muscle bullocks
+only cumblig gale.”
+
+“I’m not going near him,” said Patalamon. “He’s unlucky. Do you really
+think he is old Zne crace caleed
+to she kngill, and wound up with:
+
+“Now, if I lie in one word, send men to see, and they will find that the
+table, he might have stuffed himself three times over with nice things.
+But he remembered Nag the hungry will hedd the hundreds of
+little dark rooms
+
+=================================================================================
+Epoch 1200 - loss = 0.056 time = 2360 s
+Mowgli put supfe! Ahuwora! The stones slip under my feet! Wait my
+coming, O most infamous Bandar-log!” He panted up and down of the branches closed over the boy, but Rann balanced away to
+the next tree out turning his head, chuckling in the steamer entitled, and the coundralo and ploor cait; on the steamer enttlederall that if he
+sin the
+stealed tight your friends, that have
+been disture wan abree. I men aboud tikki off his guard. So he dropped his head a little, and put it
+on one side.
+
+“Let u
+
+=================================================================================
+Epoch 1300 - loss = 0.064 time = 2550 s
+Mowgli his the that caste makes
+brtween the eyes.”
+
+Akela lifted his head again and said, “He has eaten our food. He has
+slept with surf, he flenute ert, and oup was to sparf 1urf, as Sher, Kead and sauph, 1 there to sear  hund, oug the wo lother islands feles, the Tong spease hes, twikli’t asl one out of the water. No cradle is so comfortable as the
+long, rocking swelem.
+
+The Packet mongung little beast! Oh, why doesn’t
+someone take her away? She’ll bite me in a minute.”
+
+“Seems to s.Fo3 m. 
+
+=================================================================================
+Epoch 1400 - loss = 0.050 time = 2740 s
+Mowgli gousheads and the two trotted away, taking
+Mowgli with them. What Baloo had said about the monkeys was picat I do not mistake
+thee for a monkey some twilight when I have newly changed my coat.”
+
+“We be one slaffelers who lyes pe, calves t I mist no. I ever minut over the
+dust.
+
+“The boy broke it with a stone!” shrieked Darzee’s wife.
+
+“Well! It may be so.  Big as though they had been halibut,
+and upsetting the young bachelors in all directions; and Sea Catch gutere, cowering.          
+
+=================================================================================
+Epoch 1500 - loss = 0.052 time = 2929 s
+Mowgli wepline begalt crep the Wolves. And good with a hole under the
+two with the Wall Keddah at his age does not end in jails. See, little one, here are
+four annas to spend in sweetmer seome to mise good lost his troop, little lady,” he said politely. “Now I must go back to Dick. My
+tail’s all muddy, and he’ll he major his colonel, and the colonel his brigadier commanding
+three regiments, and the brigadier the ripped back the skin of a
+forepaw. “So thou wilt take the hide to Khanhiwara for the r
+
+=================================================================================
+Epoch 1600 - loss = 0.049 time = 3118 s
+Mowgli    Bad luck to all the driver-men that cannot pack a load:
+     For we can wriggle and climb, my lifted all song about the great God
+Shiv, who once told all the animals what they should eat. It is a very
+and with big scared eyes. Rikki-tikki was rather amused at all the
+fuss, which, of course, he did not wait for anything more, but dashed on; and the yells grew
+fainter behind him as he rankeed to seal’s shoulder bones in front of a herd
+of holluschickie and they stopped dead, puffing and b
+
+=================================================================================
+Epoch 1700 - loss = 0.051 time = 3309 s
+Mowgli tall, or for the seals are not very clever, and they need a long time to
+turn things over in their minds, but he were alone in all India.
+
+“Ye-es,” he said,” said Father Wolf stiffly, “but there is nooking
+and the Epatkas--the Burgomaster Gill heard the
+snap of histed and then a my chale in or scale on for the seals are not very clever. But still, we are the only people to a quiet place. I am old,
+and I shall never live to see that day, but others wer alook,” said Father Wolf, shead--Or si
+
+=================================================================================
+Epoch 1800 - loss = 0.043 time = 3499 s
+Mowgli laid his hands on Baloo and Bagheera to get them away, and the
+two great beasts stand now afraid,” said Billy. “You get laughed at by
+gun-bullocks. I hope you like it, young un.”
+
+The y fats were buf and peace go with thee. Only, another time downt’tmem, who
+himself the walls came a moan like the wind in the tree-tops--“We see, O
+Kaa.”
+
+“Good. Begins now the dance had save “I will call Mowgli and he shall say them--if he will. Come, Little
+Brother!”
+
+“My head is ringing. Butting him b
+
+=================================================================================
+Epoch 1900 - loss = 0.046 time = 3690 s
+Mowgli garde dope met at least a hundred
+seals from Lukannon Beach, house hunting. Why can’t people stay where
+they Twood
+tearly popped out of his
+head as he shuffled along in the wake of the herd.
+
+“The white seal is comitikkip rong as
+have role to a cub, look
+at him carefully, and return to his place on noiseless feet. Sometmingong ack, mite at his arm and neffest thecoun lives.”
+
+Rikki-tikki woke up with a jump, for the mongooses are light sleepers.
+
+“Oh, it’s you detaily them. At the tw
+
+=================================================================================
+Epoch 2000 - loss = 0.046 time = 3879 s
+Mowgli staged he got to the most touching part, the grass quivered
+again, and Rikki-tikki, covered with dirt, denther lasn old stake theight nor cerough the
+coulven he circle where their mothers and fathers
+sat, and now and again a senior wolf would go quietly up the 1ain pet the man-cub out of that trap; I can do no more,” Bagheera gasped.
+“Let us take the man-cub and go as he got to the most touching part, the grass quivered
+again, and Rikki-tikki, covered with dirt, dances that churned the sea 
+
+=================================================================================
+Epoch 2100 - loss = 0.043 time = 4070 s
+Mowgli looked access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+“Plain Vanith the Bandar-log--the
+Monkey People.”
+
+Mowgli looked at Bagheera to see if the Panther was angry moon to Tigethe Back, and we will hunt for Rikki-tikki
+together.”
+
+“But are you sus in and down the beach side by side, bellowing.
+
+At night, just as the Northern Lights were winking ace his lottle bove the trumpeting
+and crashing, and snapping of ropes, and groans of the tethered
+eleph
+
+=================================================================================
+Epoch 2200 - loss = 0.049 time = 4259 s
+Mowgli lad old gatch from any wead the ckmell re Kala
+Nag as the stars began to come out, the tom-tom in his lap, and he
+thumped and he tulsi plant.
+
+“Again? Last time it was because I was a man. This it a belas
+and the Epatkas--the Burgomaster Gulls and the Kittiwakes and the
+Puffins, who are always looking motels a night, old Hay-bale!--try
+to control your feelings, won’t you? Good-night, Teddows jump and quiver.
+
+“Good!” said Mowgli, staring round slowly. “I see that ye are dogs. I go
+frid
+
+=================================================================================
+Epoch 2300 - loss = 0.044 time = 4450 s
+Mowgli See if the mand then, man-cub?”
+
+“And then, and then, they gave me nuts and pleasantt for be seven down hills, all laid out from fifty to seventy
+or a hand
+ever dreamed that Sea Cow
+was anything of a swimmer. They headed for a cliff by the shore--a cliff
+preer Wolf’s cave
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the works a pown had dashed ingo The diden the tiger will charge a mob of cattle. But
+if they straggle to pick flowers or hunt li
+
+=================================================================================
+Epoch 2400 - loss = 0.038 time = 4639 s
+Mowgli had to learn back. They nughed he med rupees on his life. Better still, talk not when thy elders
+speak.”
+
+Mowgli rose to go. “All thescke Tadow,
+     Sitting at the doorways of a day of long ago,
+     Gave to each his portion, food and toill ago,.  These ame open, and makes them run
+sometimes into the very mouth of the tiger.
+
+“Man!” said Father Wolf, I am moate usted to ll be renamed.
+
+Creating the works from public domain print editions    not the way of Winkie Pop!
+
+It had been ra
+
+=================================================================================
+Epoch 2500 - loss = 0.042 time = 4829 s
+Mowgli and Mother Wolf got ready for what she knew
+would be her last fight, if things came to fighting.
+
+“Bah! I was the Keddah, and the old elephant catchers would
+wipe the sela rowd--would be her alone, for what the builed shoulders; and there was one with a broken tusk and the mark his own tengs from theephants, and the mad rush and blaze and hullabaloo of the last night’s
+drive, when the place where--Bapree-bap!
+How many windings has the Dihang River? Here is another ford, and we
+     This I
+
+=================================================================================
+Epoch 2600 - loss = 0.038 time = 5019 s
+Mowgli as the boy storid wourd came
+nearer and nearer to it, till at last, while Rikki-tikki was drawing
+breath, she caught it in the scratch and squawk
+of a half-waked bird (birds are awake in the night much more often than we or have Ourse said Baloo. und gates without
+permission and without paying copyright royalties.  Special rules,
+set forthe cave tending his fire pot and dipping
+dry branches into it to see how they looked. He found acrount out were, cowering, till the loaded branches bent a
+
+=================================================================================
+Epoch 2700 - loss = 0.037 time = 5209 s
+Mowgli the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literampatience till he saw that they were
+following up a warm current of water, and then he respected the rwi way there--way for the twenty yoke
+           Of the Forty-Pounder train!
+
+     CAVRY HORSES
+
+r, but way there was a donkey. “My father
+was a Southern gentleman, and he could put foou--the click of one bamboo stem against the other,
+the rustle of somet
+
+=================================================================================
+Epoch 2800 - loss = 0.044 time = 5398 s
+Mowgli suck with some meat on it, and sat cracking the end
+merrily.
+
+“All thanks for this good meal,” he sut the Keddah, and the old elephant catchers would
+wipe the sweat out of their eyes, and find time to ngion ped about his ears, and the
+villagers shouted: “Sorcerer! Wolf’s brat! Jungle demon! Go away! Get
+head, or went off and danced the
+Fire-dance with a very known, he was doing a much more
+dangerous thing than fighting Nag, for Karait is so small, and came For a ull hat-hut forthing that
+
+=================================================================================
+Epoch 2900 - loss = 0.043 time = 5588 s
+Mowgli speaks ran are screwed together whead, O little son of mine!
+
+
+
+
+Her Majesty’s Servants
+
+     You can work it out by Fractions up to see where the voice came from, and there was Rann the
+Kite, sweeping down with the sun sithing to
+care to see the little brown face come up again. “Mark
+my trail!” Mowgli shouted. “The land and bullibence fro, carried the news of the great battle over the jungle, till even
+Hathi the Wild Elephant trumper. And Messua cried, and Buldeo embroidered
+the sto
+
+=================================================================================
+Epoch 3000 - loss = 0.041 time = 5778 s
+Mowgli heand his war cry as
+he scuttled through the long grass was: “Rikk-tikk-tikki-tikki-tchk!”
+
+One day, and the sergeant his
+lieutenant, and the lead nother seen the
+elephants dance. When a dain where they said Baloo
+“All it off. Give it to me.”
+
+Shere Khan had jumped at a woodcutteers and donations from
+people in all waiters nece that caste makes
+between man and man. When the potter’s donkey slipped in the clay pit,
+Mowgli han for (Wo and the sergeant his
+lieutenant, and the lieutenant
+
+=================================================================================
+Epoch 3100 - loss = 0.037 time = 5968 s
+Mowgli they shouted and ran away, and the yellow
+pariah dogs that hang about ets a pension at the end of
+his service. Is the family of Toomai
+of Shere Khan had made a false
+step wive. He wored years are reasour friends have waked the camp very
+thoroughly. It takes a good deal of prodding to put up a gun-bula.  eater!” He knew that Sea Vitch never caught for the seal he had left behind him, but thought they could. The Lone Wolf had led them for a
+year now. He had fallen twice into a wolf trap into
+
+=================================================================================
+Epoch 3200 - loss = 0.041 time = 6158 s
+Mowgli the ld splendid. Some king had built it long ago on a little
+hill. You could still trace the stong about what they were talking of,
+had to cover his face not to show that he was laughing, while But what they were talking of,
+had to cover his face not to show that he was laughing, while Buppee, his head and shoulders into
+this cave, hunting for thy life, Little Frog--I told him that the hunte of the room. H’sh! I mustn’t tell you anythint. Twat that canson his head and shoulders into
+this ca
+
+=================================================================================
+Epoch 3300 - loss = 0.037 time = 6348 s
+Mowgli had been cuffed and run off
+in a temper, “A man’s cub is a man’s cldare. “He has noticed us! Bagheera has noticed us. All the Jungle-People
+admires ast a little bit. I try not to
+think about it.”
+
+“I can see more than you, and I do think about ith for the seals are not very cldever feeh for the seals are not very clever, and they need a long time to
+turn things over in their minds, but not Mowgli. The curve of the
+broken dome was above his head.
+
+“Task Mowgli. The curve of the
+broken d
+
+=================================================================================
+Epoch 3400 - loss = 0.038 time = 6538 s
+Mowgli child not rike that ne ons in
+the darkness, facing the blazing eyes of Shere Khan.
+
+“And it is I, Raksha [The Demon], who had
+taken him to Abyssinia, and grandson of Toomai of the Elephantsu head no intention
+of losing any advantage of the ground, and coiled and uncoiled himself
+once or twicle, bewildered, as the stones flew thicker.
+
+“They are not unlike the Pack, these brothers of thine,”
+trie wolves at his heels and a
+bundle on his head, trotting across at the steady wolf’s trot tha
+
+=================================================================================
+Epoch 3500 - loss = 0.038 time = 6727 s
+Mowgli ment you up and down your street.”
+
+He turned on his heel and walked away with the Lone Wolf, and as and he never found an island
+that he could fancy.
+
+If the beach was good and hard, with a soprmer toked to “Who is Nag?” said he. “I am Nag. The great nead I wall a real looking glass, such
+as they sell at the country fairs.
+
+She gave him a longree will s eslare particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is comming and whooping and yelling, th
+
+=================================================================================
+Epoch 3600 - loss = 0.040 time = 6917 s
+Mowgli felt is the hardest thing in the world to frighten a mongoose, because
+he is eaten up from nose to tail, O Wolves!
+
+     Ahae!  My heart is heavy with the things that I do not understand.
+
+
+
+
+The fowne!”
+
+“We sat down--a hundred of us,” the camel went on, “in a big square, and
+the men piled our own!”
+
+“We sat down--a hundred of us,” the camel
+rn smooth by
+his father, and his grandfather, and his great-grandfather.
+
+He knew what he was talk
+r did.
+You preferred prowling about i
+
+=================================================================================
+Epoch 3700 - loss = 0.036 time = 7106 s
+Mowgli the with
+tere only three eggs left, and Rikki-tikki began to
+chuckle to himself, when he heard Darzee’s wife scared and not; and so drifted about in ones and twos or crowds telling
+each other that they were doing as much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations that darkened all the shore.
+     And o’er the foam-flecked offing as far as voice could reach
+     on an body and swith
+the defective work may elect to provide a replacement
+
+=================================================================================
+Epoch 3800 - loss = 0.039 time = 7296 s
+Mowgli said out his hoos that by being without and all my forest afd ride. The Black Panther had race tong
+under
+you the instant you feel the rein on your neck. If you haven’t room lolled out their tongue,” and Mander
+you the instant you feel the end nearest the wall, where the sun strikes
+nearly all day. She hid them there weeks ago.”
+
+“Ane soothered what was the greatest white man in the world
+to him. He was the head of all the Keddah operations--the man-cub out of that trap; I can do no more,
+
+=================================================================================
+Epoch 3900 - loss = 0.036 time = 7486 s
+Mowgli for their years of the big bungalow in Segowlee
+cantonment. Darzee, the Tailorbird, helped him, and Chuchundra, the egg on the veranda. “Ah-h!
+Give it to me,” she said.
+
+Rikki-tikki put his paws one on each sick, snuffed at
+his ear, and climbed down to the floor, where he sat rubbing his nose.
+
+“Good gracing
+alling her frog.
+
+“What is it, Son?” she said.
+
+“Some bat’s chatter of Shere Khan,” he called back.  notes like a tiny dinner gong, and
+then the steady “Ding-dong-tock! Nag is d
+
+=================================================================================
+Epoch 4000 - loss = 0.035 time = 7675 s
+Mowgli under the palm of her hand. “Indeed he
+is not. He is that men use, with the knife of the
+        hunter, I will stoop d come it will be to lay
+out Shere Khan’s hide upon the Council Rock. Do not forget me! Tell them questions in every language that he had picked
+up in his travels; and the Sea People talk ne wrists and
+ankles, and she peered at Mowgli under the palm of her hand. “Indeed he
+is not. He is that Toomai’s mother sang to the baby)
+
+     Shiv, who poured the harvest and made the
+
+=================================================================================
+Epoch 4100 - loss = 0.044 time = 7865 s
+Mowgli how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new a ling fog. Away to the
+northward, out to sea, ran a line of bars and shoals and rocks that
+jag, said Teddy’s mother. “He may bite the
+child.” “He’ll the orthless? Now those
+foolish hunters, whose pay is less than my pay, have spoken to Petersen
+Sahib orty minutes, and Kotick could hear the
+fog-dew dripping off the brim of his cap. Then ten or twelve just because he knew that
+Nagaina’s chil
+
+=================================================================================
+Epoch 4200 - loss = 0.043 time = 8055 s
+Mowgli drounds. It means, translated, “Give
+me leave to hunt here because I am hungry.” And the answer is, “I hard and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project
+Gothing,” said
+Mother Wolf quietly. “He has been lame in one foot from his birth. That
+is why he hast and ving with the sparks
+burning their fur. At last there were only Akela, Bagheera, and perhaps
+ten wont or back, that he chose to use. He could
+fluff up his tail till it looked like a 
+
+=================================================================================
+Epoch 4300 - loss = 0.040 time = 8244 s
+Mowgli is and pickers of palm leaves have stolen away our man-cub of
+whom thou hast perhaps heard.”
+
+“I head--Or sits on your back--Or holds the nose
+rope--Or twists your tail,” said Billy and the troop-he dead crabs go. Then the Sea Cow began to travel northward very
+slowly, stopping to hold absurd boy big man’s cigar, for he climbed up in the
+big man’s lap to see how writing was done. At nightfall he dead crabs go. Then the Sea Cow began to travel northward very
+slowly, stopping to hold absurd
+
+=================================================================================
+Epoch 4400 - loss = 0.034 time = 8432 s
+Mowgli side.
+
+“Umph!” he said, for he had come across more than one such barricade in
+his night rambles of temples with wild figs
+sprouting on their sides. The monkeys called the place their city, and closhigh in about the proper thing to do is to climb up a mountain with a
+well-balanced saddle, hang on by all four feet closed his eyes a soft gray nose poked him
+under the chin.
+
+“Phew!” said Gray Brother (he was the end of the branch, and Mowgli struck right
+and left round the circle, and the 
+
+=================================================================================
+Epoch 4500 - loss = 0.040 time = 8621 s
+Mowgli that he would
+have to go out with the buffaloes next day, and herd them while they
+grazed. Now was the greatest white man in the world
+to him. He was the head of all the Keddah operations--the monkey hide thee, Nag!)
+
+There out, but Mother
+Wolf, at the back of the cave, knew by his breathing that something was
+troubli was tooks of a
+was always crossing his path in the jungle, for as Akela grew
+older and feebler the lame tiger hand when it was finished he went out into the veranda and sa
+
+=================================================================================
+Epoch 4600 - loss = 0.040 time = 8810 s
+Mowgli shoulder-pieches where they had been born, and heard the
+old seals, their fathers, fighting in the rolling mist rid of the sleepy feeling
+in their tips. Mother Wolf lay with her big gray nose dropped across her
+elephant folk have trampled down more room in their dance-room, and
+they will find ten and ten, and then he swam round to his own
+beach, hauled out, and slept for half his heand his eyes were very heavy. “Kala Nag, my
+lord, let us kees. When they
+were all gathered together, Shere K
+
+=================================================================================
+Epoch 4700 - loss = 0.038 time = 8998 s
+Mowgli the out in the sun and slept, and ate and went to sleep
+again. When he felt dirty or hot he swam in the old men sat around the tree
+and talked, and pulled at the big huqas (the wate of the tignbetenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without im, howlls and the Greating the next man’s boot without crushing it. I can see Dick’s lance
+to the right of my right eye! He to Bagheera, one mouth
+of the tunnel.
+
+“It’s Novastoshnah over again, but
+
+=================================================================================
+Epoch 4800 - loss = 0.044 time = 9187 s
+Mowgli turned and saw sheet
+of rocky islast
+stockade, and the big drop gate, made of tree trunks lashed together,
+jarred down behind them, bewildered, as the stones flew thicker.
+
+“They are not unlike the Pack, these brothers of thine,” said the bullocks.
+
+“I kidouck and undis business, and the
+meaning of things in the jungle, till every rustle in the grass, every
+breathe at was made already, six feet wide, in front obsolete, old, middle-aged and new computers.  It exists
+because of the effor
+
+=================================================================================
+Epoch 4900 - loss = 0.036 time = 9376 s
+Mowgli and he shall say them--if he will. Come, Little
+Brother!”
+
+“My head is ringinto the Ark
+          For to get out of the rain!
+
+Then I heard an old grizzled, long-haired Centimes ten, tracks leading to that
+dance-room. They made more room with their feet. I have see that day, but others way to this bush. I must get to the melon-bed, and if I went
+there now she’d see me.”
+
+Darzee was far from India,
+and had seen the Emperor Theodore lying dead in Magdala, and had
+come back again into t
+
+=================================================================================
+Epoch 5000 - loss = 0.036 time = 9565 s
+Mowgli went to the Georgia Islands,
+the Orkneys, Em more.
+
+One night they sank through the shiny water--sank like stones--and for
+the first time sinks? He may be dead by now.”
+
+“Unless and until they drop him from the branches in sport, or kill that he was wanted at the Council Rock, he laughed
+till Tabaqui ran away. Then Mowgli went to the mest back oon they carried me in their arms up to the top of the trees and said
+I was their bloom fell in the Equator,
+where he was nearly baked to death; 
